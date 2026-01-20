@@ -9,7 +9,8 @@ It contains HTML, CSS, and JavaScript files to showcase an event.
 - `style.css` → styling
 - `script.js` → JavaScript functionality
 
-https://github.com/reshmaS2111/event-webpage
+https://reshmaS2111.github.io/event-webpage/
+
 
 ## Author
 
